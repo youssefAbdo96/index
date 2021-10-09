@@ -1,0 +1,10 @@
+table, th, td {
+   
+    border-spacing: 30px;
+    
+    
+}
+
+th {
+text-align: left;
+}
